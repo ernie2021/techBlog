@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(white, orange
+    background: linear-gradient(white, rgb(3, 103, 143)
     );
   }
   
@@ -12,25 +12,25 @@ body {
     border: none;
     padding: 0;
     cursor: pointer;
-    color: #1b89bc;
+    color: #2da9e2;
     text-decoration: none;
     font-size: 100%;
   }
   
   .no-button:hover {
-    color: #065b83;
+    color: #23a3df;
     text-decoration: underline;
   }
   
   .dollar-amount {
-    color: #056605;
+    color: #12a812;
     font-weight: bold;
     margin-left: -5px;
   }
   
   .newpostlink {
     padding: 10px;
-    background: orange;
+    background: rgb(0, 255, 98);
     text-align: center;
     width: 100px;
     border-radius: 10px;
@@ -50,8 +50,8 @@ body {
   }
   
   main {
-    background: red;
-    border: 2px solid red;
+    background: rgb(5, 108, 139);
+    border: 2px solid rgb(2, 100, 146);
     padding: 20px;
   }
    main>div>div {
@@ -67,7 +67,7 @@ body {
   
    #submit {
      margin-top: 20px;
-    background-color: orange; /* Green */
+    background-color: rgb(3, 134, 128); /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
